@@ -11,10 +11,12 @@ so make sure you pip install all first
 
 ## How to use
 
-just simply using CLI and put the video link you wanna download behind and you done! 
+just simply using py and put the video link you wanna download behind
 
 
 <img width="572" alt="Screenshot 2022-12-07 at 8 05 06 PM" src="https://user-images.githubusercontent.com/112676063/206175038-42fd3903-6624-453c-9faf-4b9c61434ad3.png"> 
+Or using CLI and your done! 
+<img width="571" alt="Screenshot 2022-12-07 at 8 27 13 PM" src="https://user-images.githubusercontent.com/112676063/206179206-93ccd9b9-368b-4f5b-bbd9-20253c337b22.png">
 
 ## final
 <img width="296" alt="Screenshot 2022-12-07 at 8 06 33 PM" src="https://user-images.githubusercontent.com/112676063/206175322-4bc35d23-cc5e-4ac7-ba44-9572798a9ead.png">
