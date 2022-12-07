@@ -13,6 +13,6 @@ print("View: ", p.views)
 
 for video in tqdm(p.videos):
     sleep(0.00001)
-    yd = video.streams.get_highest_resolution().download('/Users/dev/Desktop/YTfolder')
+    yd = video.streams.get_highest_resolution().download('.YTfolder') # change directory before downloading video that you want to put in
 else:
     print(f'Sussesfully downloaded {title}')
